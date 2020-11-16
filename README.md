@@ -5,5 +5,6 @@ https://www.w3resource.com/python-exercises/python-conditional-statements-and-lo
 
 I occasionally generalized the solutions.
 
-*solution1.py contains different type of questions.
-*solution2.py contains only printing some letters with "*".
+solution1.py contains different type of questions.
+
+solution2.py contains only printing some letters with "*".
