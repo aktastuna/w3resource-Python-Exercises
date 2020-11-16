@@ -2,4 +2,4 @@
 
 ## Python Conditional Statements and loops
 
-### I added my approaches to the questions.
+I added my approaches to the questions.
